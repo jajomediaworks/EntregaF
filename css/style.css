@@ -37,12 +37,12 @@ body.authentication-bg {
     box-shadow: 0 6px 25px -10px #29c993;
     display: inline-block;
   }
-  .btn-edit::before {
+  /* .btn-edit::before {
     font-family: "Material Icons";
     content: "\e150";
     margin-right: .12rem;
     font-size: 1rem;
-  }
+  } */
 
   .btn-edit:hover {
     transform: translatey(-10px);
